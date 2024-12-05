@@ -16,7 +16,7 @@ public class NestedSwitch2 {
 			switch(actor)
 			{
 			case "Vijay":
-				System.out.println("1.Theri "+"2.Mesal "+" 3.Kaththi");
+				System.out.println("1.Theri "+"2.Mersal "+" 3.Kaththi");
 				break;
 			case "Vikram":
 				System.out.println("1. Paththu Endrathukulla");
